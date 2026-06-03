@@ -1,5 +1,7 @@
 {
   "default": "",
-  "clients": {},
+  "clients": {
+    "bce83266fefc": "v2.0.13"
+  },
   "latest_built": "v2.0.13"
 }
